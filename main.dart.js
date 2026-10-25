@@ -52037,7 +52037,7 @@ i=b?B.dL:B.E
 s=A.R(a).ok.a
 if(s==null)s=n
 else s=s.awW(b?34:48)
-k.push(A.aM("Hi, I'm "+j.b+" \ud83d\udc4b",n,n,n,n,s,i,n))
+k.push(A.aM("Hi, I'm "+j.b,n,n,n,n,s,i,n))
 k.push(B.bv)
 i=b?B.dL:B.E
 k.push(A.b53(B.nV,A.aM(j.c,n,n,n,n,B.a1e,i,n),new A.aeQ()))
